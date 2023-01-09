@@ -1,0 +1,38 @@
+body{
+  background-color: #011F3F;
+}
+.container{
+    width: 100%;
+  margin: auto;
+  text-align: center;
+}
+h1{
+    margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: white;
+}
+h3{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #4ECCA3;
+}
+.change{
+    margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: white;
+}
+p{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 2rem;
+  color: #4ECCA3;
+}
